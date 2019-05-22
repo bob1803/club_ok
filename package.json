@@ -1,0 +1,11 @@
+{
+  "name": "club_ok",
+  "version": "1.0.0",
+  "description": "site for the kniting fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bob Tkachenko",
+  "license": "ISC"
+}
